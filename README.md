@@ -9,21 +9,15 @@ How to Play
 
     Clone the Repository: Clone this repository to your local machine using the following command:
 
-    bash
-
-git clone <repository-url>
+     git clone <repository-url>
 
 Compile the Code: Navigate to the src directory of the repository and compile the Java source files using the javac command:
-
-css
 
 javac Main.java
 
 Run the Game: After successfully compiling the code, run the game using the java command:
 
-css
-
-    java Main
+java Main
 
     Game Modes:
         Two Players: When prompted, enter the positions to place your 'X' or 'O' on the game board. The game will alternate between Player 1 ('X') and Player 2 ('O').
